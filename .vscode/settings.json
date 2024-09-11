@@ -1,3 +1,5 @@
 {
-    "liveServer.settings.port": 5501
-}
+    "scripts": {
+      "build": "[my-framework] build --output public"
+    }
+  }
